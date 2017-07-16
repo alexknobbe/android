@@ -2257,7 +2257,7 @@ public class AuthenticatorActivity extends AccountAuthenticatorActivity
     @Override
     public void onFailedSavingCertificate() {
         dismissDialog(SAML_DIALOG_TAG);
-        Toast.makeText(this, R.string.ssl_validator_not_saved, Toast.LENGTH_LONG).show();
+        showSnackMessage(R.string.ssl_validator_not_saved);
     }
 
     @Override
@@ -2335,11 +2335,7 @@ public class AuthenticatorActivity extends AccountAuthenticatorActivity
         dialog.show(ft, CREDENTIALS_DIALOG_TAG);
 
         if (!mIsFirstAuthAttempt) {
-            Toast.makeText(
-                    getApplicationContext(),
-                    getText(R.string.saml_authentication_wrong_pass),
-                    Toast.LENGTH_LONG
-            ).show();
+            showSnackMessage(R.string.saml_authentication_wrong_pass);
         } else {
             mIsFirstAuthAttempt = false;
         }
@@ -2350,5 +2346,9 @@ public class AuthenticatorActivity extends AccountAuthenticatorActivity
      */
     public void doNegativeAuthenticatioDialogClick() {
         mIsFirstAuthAttempt = true;
+    }
+
+    private void showSnackMessage(int messageResource) {
+        Snackbar.make(findViewById(android.R.id.content), messageResource, Snackbar.LENGTH_LONG).show();
     }
 }
