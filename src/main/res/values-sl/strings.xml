@@ -188,7 +188,6 @@
     <string name="sync_conflicts_in_favourites_ticker">Zaznani spori</string>
     <string name="sync_fail_in_favourites_ticker">Posodobitev stalno usklajenih datotek je spodletelo</string>
     <string name="sync_foreign_files_forgotten_ticker">Nekatere krajevne datoteke so spregledane</string>
-    <string name="sync_foreign_files_forgotten_content">Skupno %1$d datotek iz mape %2$s ni mogoče kopirati v</string>
     <string name="sync_foreign_files_forgotten_explanation">Od različice 1.3.16 so datoteke, poslane iz te naprave, varnostno kopirane v krajevno mapo %1$s. S tem je preprečena možnost izgube podatkov, ko se ena datoteka usklajuje z več računi.\n\nZaradi te spremembe so vse datoteke, ki so bile kopirane v prejšnjih različicah, kopirane v mapo %2$s. Zaradi napake ni mogoče končati usklajevanja. Datoteke lahko ali pustiš kjer so, in odstraniš povezavo na %3$s ali pa premakneš datoteke v mapo %1$s in ohraniš povezavo do %4$s.\n\nSpodaj so izpisane krajevne datoteke in oddaljene povezane datoteke v mapi %5$s.</string>
     <string name="sync_current_folder_was_removed">Mapa %1$s ne obstaja več</string>
     <string name="foreign_files_move">Premakni vse</string>
