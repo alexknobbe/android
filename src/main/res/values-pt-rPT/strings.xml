@@ -113,7 +113,6 @@
     <string name="sync_fail_ticker">Sincronização falhou</string>
     <string name="sync_conflicts_in_favourites_ticker">Encontrados conflitos</string>
     <string name="sync_fail_in_favourites_ticker">Falhou a operação de manter os ficheiros sincronizados</string>
-    <string name="sync_fail_in_favourites_content">Não foi possível sincronizar o conteúdo de %1$d ficheiros  (%2$d conflitos)</string>
     <string name="sync_foreign_files_forgotten_ticker">Alguns ficheiros locais ficaram esquecidos</string>
     <string name="sync_foreign_files_forgotten_content">Não foi possível copiar %1$d ficheiros da pasta %2$s para</string>
     <string name="foreign_files_move">Mover todos</string>
