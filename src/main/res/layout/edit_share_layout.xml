@@ -61,6 +61,7 @@
             android:layout_marginTop="@dimen/standard_half_margin"
             android:textColor="@color/color_accent"
             android:paddingLeft="@dimen/zero"
+            android:paddingRight="@dimen/zero"
             style="@style/TextAppearance.AppCompat.Body2"
             />
 
@@ -97,6 +98,7 @@
             android:layout_marginTop="@dimen/standard_half_margin"
             android:textColor="@color/color_accent"
             android:paddingLeft="@dimen/zero"
+            android:paddingRight="@dimen/zero"
             style="@style/TextAppearance.AppCompat.Body2"
             />
     </LinearLayout>
