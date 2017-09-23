@@ -178,11 +178,8 @@
     <string name="sync_fail_content">%1$s 同步無法完成</string>
     <string name="sync_fail_content_unauthorized">無效的密碼 %1$s</string>
     <string name="sync_conflicts_in_favourites_ticker">出現衝突</string>
-    <string name="sync_conflicts_in_favourites_content">%1$d 持續同步未被同步的檔案</string>
     <string name="sync_fail_in_favourites_ticker">同步檔案失敗</string>
-    <string name="sync_fail_in_favourites_content">%1$d 未被同步（與 %2$d 衝突）</string>
     <string name="sync_foreign_files_forgotten_ticker">有些本地端的檔案已遺失</string>
-    <string name="sync_foreign_files_forgotten_content">%2$s 資料夾中的 %1$d 個檔案無法被複製進去</string>
     <string name="sync_foreign_files_forgotten_explanation">於1.3.16版本中，此裝置已上傳的檔案會複製到本地%1$s資料夾，以防止多重帳號同步單一檔案時造成遺失。透過此應用程式更早的版本上傳的檔案則複製到%2$s資料夾。但是在同步時出現錯誤會阻礙此操作完成，你可以選擇無視此檔案並移除%3$s的連結，或者移動此檔案到%1$s資料夾並保留%4$s的連結，下面列出%5$s中本地與遠端檔案之間的連結。</string>
     <string name="sync_current_folder_was_removed">資料夾%1$s已不存在</string>
     <string name="foreign_files_move">移動全部</string>
@@ -443,14 +440,6 @@
 
     <string name="username">使用者名稱</string>
 
-    <string name="file_list__footer__folder">1 個資料夾</string>
-    <string name="file_list__footer__folders">%1$d 個資料夾</string>
-    <string name="file_list__footer__file">1 個檔案</string>
-    <string name="file_list__footer__file_and_folder">1 個檔案， 1 個資料夾</string>
-    <string name="file_list__footer__file_and_folders">1 個檔案， %1$d 個資料夾</string>
-    <string name="file_list__footer__files">%1$d 個檔案</string>
-    <string name="file_list__footer__files_and_folder">%1$d 個檔案， 1 個資料夾</string>
-    <string name="file_list__footer__files_and_folders">%1$d 個檔案， %2$d 個資料夾</string>
     <string name="set_picture_as">使用圖片作為</string>
     <string name="set_as">設置為</string>
 

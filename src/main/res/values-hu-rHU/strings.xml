@@ -176,11 +176,8 @@
     <string name="common_choose_account">Válasszon azonosítót</string>
     <string name="sync_fail_ticker">Sziknronizálás hiba</string>
     <string name="sync_conflicts_in_favourites_ticker">Ütközések vannak</string>
-    <string name="sync_conflicts_in_favourites_content">%1$d szinkronizálandó fájlokat nem sikerült szinkronizálni</string>
     <string name="sync_fail_in_favourites_ticker">A szinkronizálandó fájlokat nem sikerült szinkronizálni</string>
-    <string name="sync_fail_in_favourites_content">%1$d fájl szinkronizálása nem sikerült (%2$d ütközés)</string>
     <string name="sync_foreign_files_forgotten_ticker">Néhány helyi fájlt figyelmen kívül hagytunk</string>
-    <string name="sync_foreign_files_forgotten_content">%2$s mappából %1$d fájlt nem lehetett másolni</string>
     <string name="foreign_files_move">Helyezzük át mindet</string>
     <string name="foreign_files_success">Az összes fájlt áthelyeztük</string>
     <string name="foreign_files_fail">Egyes fájlokat nem sikerült áthelyezni</string>
@@ -365,14 +362,6 @@
 
     <string name="username">Felhasználónév</string>
 
-    <string name="file_list__footer__folder">1 mappa</string>
-    <string name="file_list__footer__folders">%1$d mappa</string>
-    <string name="file_list__footer__file">1 fájl</string>
-    <string name="file_list__footer__file_and_folder">1 fájl, 1 mappa</string>
-    <string name="file_list__footer__file_and_folders">1 fájl, %1$d mappa</string>
-    <string name="file_list__footer__files">%1$d fájl</string>
-    <string name="file_list__footer__files_and_folder">%1$d fájl, 1 mappa</string>
-    <string name="file_list__footer__files_and_folders">%1$d fájl, %2$d mappa</string>
     <string name="set_picture_as">Kép használata mint</string>
     <string name="set_as">Beállítás mint</string>
 

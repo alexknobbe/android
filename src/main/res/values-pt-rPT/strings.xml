@@ -112,11 +112,8 @@
     <string name="common_choose_account">Escolha a conta</string>
     <string name="sync_fail_ticker">Sincronização falhou</string>
     <string name="sync_conflicts_in_favourites_ticker">Encontrados conflitos</string>
-    <string name="sync_conflicts_in_favourites_content">Não foi possível sincronizar %1$d ficheiros de manter sincronizados</string>
     <string name="sync_fail_in_favourites_ticker">Falhou a operação de manter os ficheiros sincronizados</string>
-    <string name="sync_fail_in_favourites_content">Não foi possível sincronizar o conteúdo de %1$d ficheiros  (%2$d conflitos)</string>
     <string name="sync_foreign_files_forgotten_ticker">Alguns ficheiros locais ficaram esquecidos</string>
-    <string name="sync_foreign_files_forgotten_content">Não foi possível copiar %1$d ficheiros da pasta %2$s para</string>
     <string name="foreign_files_move">Mover todos</string>
     <string name="foreign_files_success">Foram movidos todos os ficheiros</string>
     <string name="foreign_files_fail">Não foi possível mover alguns ficheiros</string>
@@ -280,14 +277,6 @@
 
     <string name="username">Nome de utilizador</string>
 
-    <string name="file_list__footer__folder">1 pasta</string>
-    <string name="file_list__footer__folders">%1$d pastas</string>
-    <string name="file_list__footer__file">1 ficheiro</string>
-    <string name="file_list__footer__file_and_folder">1 ficheiro, 1 pasta</string>
-    <string name="file_list__footer__file_and_folders">1 ficheiro, %1$d pastas</string>
-    <string name="file_list__footer__files">%1$d ficheiros</string>
-    <string name="file_list__footer__files_and_folder">%1$d ficheiros, 1 pasta</string>
-    <string name="file_list__footer__files_and_folders">%1$d ficheiros, %2$d pastas</string>
     <string name="prefs_instant_behaviour_dialogTitle">O ficheiro original será&#8230;</string>
     <string name="prefs_instant_behaviour_title">O ficheiro original será&#8230;</string>
     <string name="upload_copy_files">Copiar ficheiro</string>

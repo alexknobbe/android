@@ -149,11 +149,8 @@
     <string name="common_choose_account">Escolliu el compte</string>
     <string name="sync_fail_ticker">La sincronització ha fallat</string>
     <string name="sync_conflicts_in_favourites_ticker">S\'han trobat conflictes</string>
-    <string name="sync_conflicts_in_favourites_content">%1$d fitxers que han d\'estar sincronitzats no s\'han pogut sincronitzar</string>
     <string name="sync_fail_in_favourites_ticker">Han fallat fitxers que han d\'estar sincronitzats</string>
-    <string name="sync_fail_in_favourites_content">No s\'ha pogut sincronitzar el contingut de %1$d fitxers (%2$d conflictes)</string>
     <string name="sync_foreign_files_forgotten_ticker">S\'han oblidat alguns fitxers locals</string>
-    <string name="sync_foreign_files_forgotten_content">%1$d fitxers no s\'han pogut copiar dins de la carpeta %2$s</string>
     <string name="sync_foreign_files_forgotten_explanation">D\'ençà la versió 1.3.16, els fitxers pujats des d\'aquest dispositiu es copien a la carpeta local %1$s per evitar perdua de dades quan un únic fitxer se sincronitza amb diversos comptes.\n\nA causa d\'aquest canvi, tots els fitxers pujats en versions anteriors d\'aquesta app es van copiar a la carpeta %2$s. Tanmateix, un error ha impedit completar aquesta operació durant la sincronització del compte. Podeu deixar els fitxer(s) com són i eliminar l\'enllaç a %3$s, o bé moure els fitxer(s) a la carpeta %1$s i mantenir l\'enllaç amb %4$s.\n\nA la llista a sota els fitxer(s) locals i els fitxer(s) remots a %5$s amb els que estaven enllaçats.</string>
     <string name="foreign_files_move">Mou-los tots</string>
     <string name="foreign_files_success">S\'han mogut tots els fitxers</string>
@@ -341,14 +338,6 @@
 
     <string name="username">Nom d\'usuari</string>
 
-    <string name="file_list__footer__folder">1 carpeta</string>
-    <string name="file_list__footer__folders">%1$d carpetes</string>
-    <string name="file_list__footer__file">1 fitxer</string>
-    <string name="file_list__footer__file_and_folder">1 fitxer, 1 carpeta</string>
-    <string name="file_list__footer__file_and_folders">1 fitxer, %1$d carpetes</string>
-    <string name="file_list__footer__files">%1$d fitxers</string>
-    <string name="file_list__footer__files_and_folder">%1$d fitxers, 1 carpeta</string>
-    <string name="file_list__footer__files_and_folders">%1$d fitxers, %2$d carpetes</string>
     <string name="prefs_instant_behaviour_dialogTitle">El fitxer original serà&#8230;</string>
     <string name="prefs_instant_behaviour_title">El fitxer original serà&#8230;</string>
     <string name="upload_copy_files">Copiar fitxer</string>
